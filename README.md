@@ -5,6 +5,6 @@ Current State:
 
   The program successfully opens a WLAN handle and parses the information.
   To Do:
-    Parse and Print the interface names
     Parse and Print the passwords.
-    15:30 
+    Need to add winrt using namespace
+    20:00
