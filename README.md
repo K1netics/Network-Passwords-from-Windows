@@ -4,7 +4,4 @@ https://www.youtube.com/watch?v=auGJJOfmrMM
 Current State: 
 
   The program successfully opens a WLAN handle and parses the information.
-  To Do:
-    Parse and Print the passwords.
-    Need to add winrt using namespace
-    20:00
+  the program uploaded ONLY parses the profile names. 
